@@ -6,7 +6,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Mailgun": "src/"
+            "Bcash": "src/"
         }
     },
 }
