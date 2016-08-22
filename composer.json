@@ -5,6 +5,7 @@
         "php": ">=5.3.0"
     },
     "autoload": {
-        "files": ["src/AutoLoader.php"]
+        "files": ["src/AutoLoader.php"],
+        "psr-4": {"Bcash\\": "src/"}
     }
 }
